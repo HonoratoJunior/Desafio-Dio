@@ -39,6 +39,4 @@ function classificarHeroi() {
         });
     });
 }
-
-// Chamada da função
 classificarHeroi();
